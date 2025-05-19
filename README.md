@@ -3,6 +3,8 @@
 This repository contains the code and documentation for the **Computer Vision final project** titled *Geo-Localization of Sequential Aerial Data*.  
 The goal of the project is to estimate the geographic location of aerial images based on sequential input.
 
+**Team** consists of Artem Krayevskiy, Khrystyna Mysak, Dmytro Khamula.
+
 ## 📁 Contents
 
 - `GeoLocalization_main.py`: The main Python script used for training and evaluation.
